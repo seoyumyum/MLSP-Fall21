@@ -1,5 +1,8 @@
 # MLSP-Fall21
 ## PS folder
+### PS1
+- Matrix manual implementation of DFT and STFT.
+- Applied on speech signal.
 ### PS2 
 - Audio features (PCA, ICA, NMF).
 - Handwritten digit image features (PCA, ICA, NMF).
